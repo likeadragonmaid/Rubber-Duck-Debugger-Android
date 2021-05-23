@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Rubber Duck Debugging</string>
+    <string name="duckling_image">Duckling Image</string>
+</resources>
